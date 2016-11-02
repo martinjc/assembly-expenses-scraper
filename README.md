@@ -36,3 +36,10 @@ optional arguments:
 
   -d DRIVER, --driver DRIVER
                         path to the chromedriver
+
+
+# TODO
+
+* caching would be nice (for the assembly web server - I couldn't care less)
+* more detailed searches (site allows by AM, by type etc)
+* read input parameters from file for more detailed searches
