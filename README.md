@@ -2,7 +2,7 @@
 A selenium based scraper for Welsh Assembly Members public expenses record
 
 
-![Scraping Expenses!](http://i.imgur.com/lzNFqXV.gifv)
+![Scraping Expenses!](http://i.imgur.com/lzNFqXV.gif)
 
 
 ## Requirements
